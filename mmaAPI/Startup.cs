@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using mmaAPI.Models;
 
 namespace mmaAPI
 {
@@ -25,6 +26,10 @@ namespace mmaAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<MMADatabaseSettings>(Configuration.GetSection(nameof(MMADatabaseSettings)));
+
+            services.AddSingleton<IMMADatabaseSettings>(sp => sp.GetRequiredService<IOptions<MMADatabaseSettings>>().Value);
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 

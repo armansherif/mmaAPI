@@ -1,0 +1,11 @@
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.AssemblyInfo.cs
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\bin\Debug\netcoreapp2.1\mmaAPI.deps.json
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\bin\Debug\netcoreapp2.1\mmaAPI.runtimeconfig.json
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\bin\Debug\netcoreapp2.1\mmaAPI.runtimeconfig.dev.json
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\bin\Debug\netcoreapp2.1\mmaAPI.dll
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.RazorAssemblyInfo.cache
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.RazorAssemblyInfo.cs
+C:\Users\arman\source\repos\mmaAPI\mmaAPI\obj\Debug\netcoreapp2.1\mmaAPI.RazorTargetAssemblyInfo.cache
